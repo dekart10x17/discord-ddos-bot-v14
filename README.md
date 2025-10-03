@@ -27,7 +27,7 @@ A simple Discord-driven tool intended to demonstrate how one might coordinate lo
 > Replace placeholders with your own values before running.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/discord-ddos-bot-v14.git
+git clone https://github.com/dekart10x17/discord-ddos-bot-v14.git
 cd discord-ddos-bot-v14
 npm install
 # Configure `config.json` (see below)
